@@ -94,9 +94,8 @@
                 {"label": "Space", "matrix": [4, 3], "x": 3.75, "y": 4, "w": 6.25},
                 {"label": "RightAlt", "matrix": [4, 9], "x": 10, "y": 4, "w": 1.25},
                 {"label": "Fn", "matrix": [4, 11], "x": 11.25, "y": 4, "w": 1.25},
-                {"label": "RightCtrl", "matrix": [4, 12], "x": 13, "y": 4},
-                {"label": "Left", "matrix": [4, 13], "x": 14, "y": 4},
-                {"label": "Down", "matrix": [4, 14], "x": 15, "y": 4},
+                {"label": "Left", "matrix": [4, 12], "x": 13, "y": 4},
+                {"label": "Down", "matrix": [4, 13], "x": 14, "y": 4},
                 {"label": "Right", "matrix": [4, 14], "x": 15, "y": 4}
             ]
         }
